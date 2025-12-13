@@ -1,0 +1,1 @@
+Since our model contains no recurrence and no convolution, in order for the model to make use of the order of the sequence
